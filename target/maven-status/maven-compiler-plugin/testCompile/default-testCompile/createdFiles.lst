@@ -1,0 +1,4 @@
+com/fernando/email/controller/UserMailControllerTest.class
+com/fernando/email/controller/MailControllerTest.class
+com/fernando/email/EmailSendApplicationTests.class
+com/fernando/email/service/EmailServiceImplTest.class

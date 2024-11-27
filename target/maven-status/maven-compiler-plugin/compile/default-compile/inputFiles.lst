@@ -1,0 +1,7 @@
+/home/fernando/Documents/API-GMAIL/src/main/java/com/fernando/email/controller/MailController.java
+/home/fernando/Documents/API-GMAIL/src/main/java/com/fernando/email/model/MailStructure.java
+/home/fernando/Documents/API-GMAIL/src/main/java/com/fernando/email/EmailSendApplication.java
+/home/fernando/Documents/API-GMAIL/src/main/java/com/fernando/email/service/EmailService.java
+/home/fernando/Documents/API-GMAIL/src/main/java/com/fernando/email/consumer/RabbitMQConsumer.java
+/home/fernando/Documents/API-GMAIL/src/main/java/com/fernando/email/model/UserMail.java
+/home/fernando/Documents/API-GMAIL/src/main/java/com/fernando/email/service/EmailServiceImpl.java
